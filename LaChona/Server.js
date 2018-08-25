@@ -8,4 +8,3 @@
 
 // Crear un CRUD para probar cada colección (GET a todos, GET a un elemento, POST, PUT y DELETE).
 
-
